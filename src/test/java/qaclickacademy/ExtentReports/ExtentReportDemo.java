@@ -43,6 +43,13 @@ public class ExtentReportDemo {
 	System.out.println("git demo");
 	System.out.println("git demo1");
 	
+	
+	System.out.println("git demo4");
+	System.out.println("git demo5");
+	System.out.println("git demo6");
+	System.out.println("git demo7");
+	System.out.println("git demo8");
+	
 	test.fail("result not matching");
 	extent.flush();
 		
