@@ -50,6 +50,10 @@ public class ExtentReportDemo {
 	System.out.println("git demo7");
 	System.out.println("git demo8");
 	
+	System.out.println("git beanch1");
+	System.out.println("git beanch2");
+	System.out.println("git beanch3");
+	
 	test.fail("result not matching");
 	extent.flush();
 		
